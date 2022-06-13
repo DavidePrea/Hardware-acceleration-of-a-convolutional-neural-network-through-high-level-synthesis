@@ -8,10 +8,7 @@ More information about the project can be found [here](https://pii.dei.polimi.it
 <a name="built"></a>
 ## Built with
 * [Vitis HLS 2021.2](https://www.oracle.com/java/technologies/downloads/#java17)
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-* [JavaFx](https://openjfx.io)
-* [Maven](https://maven.apache.org)
-* [JUnit](https://junit.org/junit5/)
+
 
 ### Libraries e Plugins
 |Libraries/Plugin|Description|
