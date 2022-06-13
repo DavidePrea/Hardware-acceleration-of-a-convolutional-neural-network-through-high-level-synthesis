@@ -1,5 +1,5 @@
 # Computer Engineering Project: High level synthesis of convolutional neural network
-Group project regarding the implementation of an handwritten digit recognition algorithm (convolutional neural network) on an FPGA board by using high level synthesis. The FPGA's performance was evaluated against the C++ and Python applications. This is formally part of the Project in Computer Science and Engineering course at Politecnico di Milano (A.Y. 2021 / 2022).
+Group project regarding the implementation of an handwritten digit recognition algorithm (convolutional neural network) on an FPGA board by using high level synthesis. This is formally part of the Project in Computer Science and Engineering course at Politecnico di Milano (A.Y. 2021 / 2022).
 
 
 More information about the project can be found [here](https://pii.dei.polimi.it/accelerazione-hardware-di-una-rete-neurale-convoluzionale-mediante-sintesi-ad-alto-livello)
