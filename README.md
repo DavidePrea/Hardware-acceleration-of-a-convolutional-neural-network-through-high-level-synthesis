@@ -1,6 +1,27 @@
 # Computer Engineering Project: High level synthesis of convolutional neural network
-Group project regarding the implementation of an handwritten digit recognition algorithm (convolutional neural network) on an FPGA board by using high level synthesis. We used Xilinx's development platform (Vitis HLS 2021.2) and the FPGA's performance was evaluated against the C++ and Python applications. This is formally part of the Project in Computer Science and Engineering course at Politecnico di Milano (A.Y. 2021 / 2022).
-## Group members - Advisor: Prof. D. Zoni
-- [Davide Preatoni](https://github.com/DavidePrea)
-- [Federico Sarrocco](https://github.com/FedeAi)
-- [Alessandro Vacca](https://github.com/AlessandroVacca)
+Group project regarding the implementation of an handwritten digit recognition algorithm (convolutional neural network) on an FPGA board by using high level synthesis. The FPGA's performance was evaluated against the C++ and Python applications. This is formally part of the Project in Computer Science and Engineering course at Politecnico di Milano (A.Y. 2021 / 2022).
+
+
+More information about the project can be found [here](https://pii.dei.polimi.it/accelerazione-hardware-di-una-rete-neurale-convoluzionale-mediante-sintesi-ad-alto-livello)
+
+
+<a name="built"></a>
+## Built with
+* [Vitis HLS 2021.2](https://www.oracle.com/java/technologies/downloads/#java17)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [JavaFx](https://openjfx.io)
+* [Maven](https://maven.apache.org)
+* [JUnit](https://junit.org/junit5/)
+
+### Libraries e Plugins
+|Libraries/Plugin|Description|
+|------------|-----------|
+|__Keras__| An open source library for machine learning and neural networks, written in Python|
+
+
+## List of Authors:
+
+ - *[Davide Preatoni](https://github.com/)*
+ - *[Federico Sarrocco](https://github.com/)*
+ - *[Alessandro Vacca](https://github.com/)*
+ 
